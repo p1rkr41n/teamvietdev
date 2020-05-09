@@ -1,0 +1,31 @@
+Hi!
+Hôm nay mình sẽ chia sẻ cho các bạn một số mẹo nhỏ để 
+tuỳ chỉnh font chữ trên window cho đẹp
+RAM: 4.4GB /7.9
+Trên google có khá nhiều cách hướng dẫn để thay đổi font chữ cho đẹp
+Nhưng có 1 số vấn đề xảy ra là 
+font chữ không được đổi ở phần start menu 
+và phân đồng hồ bị lỗi hình ô vuông []
+Mình sẽ mod theo cách khác để không bị lỗi =))
+Trước hết là tải phần mềm rename font trên mạng =))
+https://www.neuber.com/typograph/
+sau đó cần tải về font chữ mà mình thích, tải trên github hoặc trên google...
+Mình thử mod font Patrick Hand
+ok
+.
+Đầu tiên là cài typ...
+Máy hơi lag tí, mn thông cảm =))
+Bây giờ mình sẽ đổi tên font thành tên font mặc định của MS và cài vào máy để thay thế font cũ
+Ms sử dụng font Segoe UI, 
+Đây là font sau khi mình đổi tên
+bây giờ đặt tên cho font
+đặt giống hệt thế là được ( nhớ là viết thường hết)
+bây h mình đã có 1 cái font "nhái"
+cài đặt font đó là dc 
+ok, h khởi động lại máy để kiểm tra kết quả
+r
+, bây h font của mình đã dc mod thành công =))
+nếu muốn trở lại font ban đầu thì chỉ tải font Segoe UI r cài lại là dc
+kiểm tra lại sau khi mod thì ram hay cpu ko ăn thêm % nào nữa =))
+Thanks =)
+-S-TeaM
