@@ -19,4 +19,4 @@ Windows Registry Editor Version 5.00
  
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
  
-"Segoe UI"="Segoe UI"
+"Segoe UI"="tên font mới"
