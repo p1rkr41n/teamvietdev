@@ -14,3 +14,4 @@ sh ./filemane
 		Install Ibus and Ibus-Unikey ( but not config)
 		
 *NOTE: IF YOU CAN'T CONFIG NETWORK OR UNAVAILABLE INTERNET, YOU SHOULD STOP IN HERE.
+Tested on Kali Linux 2020.4
