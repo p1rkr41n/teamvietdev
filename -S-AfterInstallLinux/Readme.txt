@@ -1,5 +1,5 @@
 @author: -S-TeaM
-You can install somethings with Sbegin.txt or Sextend.txt (SAIOInstall.txt =  Sbegin.txt + Sextend.txt).
+You can install somethings with Sbegin.txt or Sextend.txt (SAIOInstall.txt =  Sbegin.txt + Sextend.txt) for amd64.
 1. You should download all file in a folder.
 2.How to run: 
 Run Terminal in this folder
