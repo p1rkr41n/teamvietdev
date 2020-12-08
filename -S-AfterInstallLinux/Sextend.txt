@@ -1,4 +1,5 @@
 sudo apt install ibus
 sudo apt install ibus-unikey
-timedatectl set-timezone "Asia/Ho_Chi_Minh"
 sudo echo "\nexport GTK_IM_MODULE=ibus\nexport XMODIFIERS=@im=ibus\nexport QT_IM_MODULE=ibus" >> ./.bashrc
+timedatectl set-timezone "Asia/Ho_Chi_Minh"
+
