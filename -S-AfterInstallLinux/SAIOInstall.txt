@@ -6,7 +6,6 @@ sudo cp ./sources.list /etc/apt/
 sudo apt update
 sudo apt upgrade
 sudo apt install libreoffice
-sudo apt search libreoffice-l10n-vi
 sudo rmmod pcspkr
 sudo echo "blacklist pcspkr" >>/etc/modprobe.d/blacklist.conf
 sudo apt install ibus
