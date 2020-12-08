@@ -9,12 +9,12 @@ sudo apt install libreoffice
 sudo apt search libreoffice-l10n-vi
 sudo rmmod pcspkr
 sudo echo "blacklist pcspkr" >>/etc/modprobe.d/blacklist.conf
+sudo apt install ibus
+sudo apt install ibus-unikey
 sudo dpkg -i chrony_4.0-2_amd64.deb
 sudo apt-get install chrony
 systemctl enable --now chrony
 systemctl status chronyd
 sudo dpkg -i firmware-iwlwifi_20200918-1_all.deb
 timedatectl set-timezone "Asia/Ho_Chi_Minh"
-sudo apt install ibus
-sudo apt install ibus-unikey
 sudo echo "\nexport GTK_IM_MODULE=ibus\nexport XMODIFIERS=@im=ibus\nexport QT_IM_MODULE=ibus" >> ./.bashrc
